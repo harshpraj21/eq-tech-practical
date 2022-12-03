@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750175656021",
+    "project_id": "eq-tech-practical",
+    "storage_bucket": "eq-tech-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750175656021:android:6fcfa97ca85287784d5cdc",
+        "android_client_info": {
+          "package_name": "com.example.eq_tech_practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750175656021-2o6js35f78njlqcaqgrsi2e9nmp4mfnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrfkzdhM4j-388AC8wUvlg6JWPkvq8MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750175656021-2o6js35f78njlqcaqgrsi2e9nmp4mfnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
